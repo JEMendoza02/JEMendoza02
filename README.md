@@ -24,7 +24,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jermg505@gmail.com)
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=java,c,cppjs,html,css,ps,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,ps,php)](https://skillicons.dev)
 
 # My Stats
 
